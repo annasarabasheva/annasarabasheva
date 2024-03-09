@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">A wanna be Python Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on **becoming fluent in Python but not only**
+- 🔭 I’m currently working on **becoming fluent in Python**
 
 - 🌱 I’m currently learning **JS, Django Framework**
 
